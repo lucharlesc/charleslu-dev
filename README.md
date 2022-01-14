@@ -1,3 +1,3 @@
 # Charles Lu
 
-This is my personal website, where you can find my information, projects, links, and contact details.
+My personal website, [charleslu.dev](https://charleslu.dev), where you can find my information, projects, links, and contact details.
