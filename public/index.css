@@ -168,7 +168,7 @@ html.dark, body.dark {
         position: static;
         transform: none;
         width: 100%;
-        margin: 32px 0 0 0;
+        margin: 32px 0 68px 0;
     }
     .info-item-img {
         height: 24px;
@@ -188,6 +188,12 @@ html.dark, body.dark {
     }
     #cornell {
         margin: 0 0 4px 0;
+    }
+    #footer {
+        background-color: #FAFAFA;
+    }
+    #footer.dark {
+        background-color: #050505;
     }
 }
 @media only screen and (max-width: 600px) {
